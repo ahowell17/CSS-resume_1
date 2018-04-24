@@ -3,7 +3,7 @@
 <p align="right">
 <a href="#objectives">Objectives</a>-<a href="#experience">Experience</a>-<a href="#education">Education</a>-<a href="#skills">Skills</a></p>
 
-<h1 align="right">
+<h1 align="right" >
 Ariana Howell
 </h1>
 <p align="right">
